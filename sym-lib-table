@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "conn_01x02_pin")(type "KiCad")(uri "${KIPRJMOD}/lib/conn_01x02_pin.kicad_sym")(options "")(descr ""))
+  (lib (name "sw_spdt")(type "KiCad")(uri "${KIPRJMOD}/lib/sw_spdt.kicad_sym")(options "")(descr ""))
+  (lib (name "xiao_nrf52840")(type "KiCad")(uri "${KIPRJMOD}/lib/xiao_nrf52840.kicad_sym")(options "")(descr ""))
+)
